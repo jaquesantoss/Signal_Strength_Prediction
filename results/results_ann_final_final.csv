@@ -1,0 +1,2 @@
+lr,module__activation,module__num_units,optimizer,MSE_test_set,MSE_val_set
+0.01,relu,15,<class 'torch.optim.sgd.SGD'>,2.611481189727783,0.3594524562358856
